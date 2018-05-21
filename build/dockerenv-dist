@@ -1,0 +1,5 @@
+AWS_MAIN_PROFILE=
+AWS_MAIN_USER_ARN=arn:aws:iam::[AWS Account ID]:mfa/[AWS User name]
+AWS_MAIN_MFA_TOKEN=
+AWS_STS_PROFILE=
+AWS_STS_ROLE_ARN=arn:aws:iam::[AWS Account ID]:role/[AWS IAM Role]
